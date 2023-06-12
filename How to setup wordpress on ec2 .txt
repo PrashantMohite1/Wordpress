@@ -1,5 +1,5 @@
 # How to setup wordpress on ec2 .txt 
-
+___________________________________________________
 
 
 1. Install Apache server on Ubuntu
