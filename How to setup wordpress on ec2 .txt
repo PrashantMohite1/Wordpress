@@ -41,7 +41,7 @@ tar -xvf latest.tar.gz
 11. Move wordpress folder to apache document root
 sudo mv wordpress/ /var/www/html
 
-11 B - go to browser - ecip/wordpress --> click on lets go 
+11 B - go to browser - ec2-ip/wordpress --> click on lets go 
                                                                 fill all database details and submit it --> you will get error unable to write wp-config.php file and copy code from there
                                                                 --> go to our ec2 --> cd var/www/html/wordpress --> vi wp-config.php and save it 
                                                                  --> run installation --> set username and pass for wordpress --> install wordpress
